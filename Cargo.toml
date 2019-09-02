@@ -1,6 +1,6 @@
 [package]
 name = "graph_reduce"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Sam Miller <noogii7@gmail.com>"]
 edition = "2018"
 license = "BSD-3-Clause"
@@ -8,6 +8,7 @@ description = "Simplify and sort directed acyclic graphs, and their associated m
 repository = "https://github.com/Melephas/graph_reduce"
 homepage = "https://github.com/Melephas/graph_reduce"
 documentation = "https://docs.rs/graph_reduce"
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+readme = "README.md"
+
 
 [dependencies]
