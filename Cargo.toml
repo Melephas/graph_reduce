@@ -1,6 +1,6 @@
 [package]
 name = "graph_reduce"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Sam Miller <noogii7@gmail.com>"]
 edition = "2018"
 license = "BSD-3-Clause"
