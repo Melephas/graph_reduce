@@ -12,3 +12,4 @@ readme = "README.md"
 
 
 [dependencies]
+num = "0.2.0"
