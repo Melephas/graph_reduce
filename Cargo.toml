@@ -4,7 +4,6 @@ version = "0.1.2"
 authors = ["Sam Miller <noogii7@gmail.com>"]
 edition = "2018"
 license = "BSD-3-Clause"
-license-file = "LICENSE.md"
 description = "Simplify and sort directed acyclic graphs, and their associated matrices"
 repository = "https://github.com/Melephas/graph_reduce"
 homepage = "https://github.com/Melephas/graph_reduce"
