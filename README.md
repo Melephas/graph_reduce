@@ -1,6 +1,7 @@
 # Graph Reduce
 
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![Run on Repl.it](https://repl.it/badge/github/Melephas/graph_reduce)](https://repl.it/github/Melephas/graph_reduce)
 
 Simplify and sort directed acyclic graphs, and their associated matrices
 
