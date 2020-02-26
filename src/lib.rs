@@ -1,6 +1,6 @@
 //! Graph Reduce
 
+mod item;
 
+pub use item::Item;
 
-pub mod graph;
-pub mod matrix;
