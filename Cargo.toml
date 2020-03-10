@@ -1,7 +1,7 @@
 [package]
 name = "graph_reduce"
 version = "0.1.2"
-authors = ["Sam Miller <noogii7@gmail.com>"]
+authors = ["Sam Miller <contact.melephas@gmail.com>"]
 edition = "2018"
 license = "BSD-3-Clause"
 description = "Simplify and sort directed acyclic graphs, and their associated matrices"
