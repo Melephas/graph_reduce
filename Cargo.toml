@@ -13,4 +13,7 @@ readme = "README.md"
 
 [dependencies]
 rulinalg = "0.4.2"
-daggy = "0.6.0"
+daggy = "0.7.0"
+serde = "1.0.115"
+serde_derive = "1.0.115"
+serde_json = "1.0.57"
